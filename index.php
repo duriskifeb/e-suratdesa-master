@@ -4,7 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" href="assets/img/mini-logo.png">
-	<title>e-SuratDesa</title>
+	<title>Surat Cinta untuk sstarla</title>
   	<link rel="stylesheet" href="assets/fontawesome-5.10.2/css/all.css">
 	<link rel="stylesheet" href="assets/bootstrap-4.3.1/dist/css/bootstrap.min.css">
 	<style type="text/css">
@@ -29,7 +29,7 @@
 	  	<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
 	    	<ul class="navbar-nav ml-auto mt-lg-3 mr-5 position-relative text-right">
 	      		<li class="nav-item active">
-	        		<a class="nav-link" href="#"><i class="fas fa-home"></i>&nbsp;HOME</a>
+	        		<a class="nav-link" href="#"><i class="fas fa-home"></i>&nbsp;Rumah Bapak</a>
 	      		</li>
 	      		<li class="nav-item">
 	        		<a class="nav-link" href="surat/">BUAT SURAT</a>
@@ -70,7 +70,7 @@
 	<a href="surat/" class="btn btn-outline-light" style="font-size:15pt"><i class="fas fa-envelope"></i> BUAT SURAT</a>
 </div>
 <div class="footer bg-transparent text-center mb-3 ">
-    <span class="text-light"><strong>Copyright &copy; 2019 <a href="#" class="text-decoration-none text-white">e-SuratDesa</a>.</strong> All rights reserved.</span>
+    <span class="text-light"><strong>© 2024, MyWebsite. Made with ❤️ by duriskifeb.</p><a href="#" class="text-decoration-none text-white">e-SuratDesa</a>.</strong> All rights reserved.</span>
 </div>
 </body>
 </html>
